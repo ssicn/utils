@@ -1,4 +1,4 @@
-# 安装
+# linux配置用户使用scp/sftp，限制在目录内
 wget http://nchc.dl.sourceforge.net/sourceforge/scponly/scponly-4.8.tgz
 
 #修改help.c第233行为else
